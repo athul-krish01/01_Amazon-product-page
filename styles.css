@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px auto;
+}
+
+.title {
+    font-weight: lighter;
+    
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    width: 500px;
+    object-fit: fill;
+    height: 700px;
+}
+.author-info{
+    font-size: 16px;
+}
+
+main{
+    display: flex;
+    justify-content: space-around;
+    margin: 24px;
+    gap: 24px;
+}
+
+.breadcrumbs-text{
+    font-size: 14px;
+    color: #757575;
+}
+
+.paragraph-text{
+    font-size: 20px;
+    line-height: 150%;
+}
+.rating{
+    width: 150px;
+}
+
+h3{
+    font-size: 24px;
+}
+
+a{
+    color: #00A3DA;
+}
